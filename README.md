@@ -10,22 +10,21 @@
 | 22/1022050  |  Larissa de Jesus Vieira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto faz parte da disciplina de Projeto de Algoritmos, ministrada pelo Professor Maurício Serrano. <br>
+Segundo o tema "Grafos 1", resolvemos cinco questões de diferentes níveis de dificuldade, todas envolvendo essa estrutura de dados. Utilizamos problemas de três juízes online: LeetCode, Beecrowd e Codeforces. 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C e C++<br>
+Para executar os programas do projeto, são necessários apenas compiladores para C e C++, além do uso de um terminal/linha de comando.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Ao executar os códigos disponìveis, é possível checar seu funcionamento por meio dos casos de teste disponíveis nos prints de cada questão resolvida.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+--
 
 
 
