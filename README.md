@@ -11,7 +11,7 @@
 
 ## Sobre 
 Este projeto faz parte da disciplina de Projeto de Algoritmos, ministrada pelo Professor Maurício Serrano. <br>
-Segundo o tema "Grafos 1", resolvemos cinco questões de diferentes níveis de dificuldade, todas envolvendo essa estrutura de dados. Utilizamos problemas de três juízes online: LeetCode, Beecrowd e Codeforces. 
+Seguindo o tema "Grafos 1", resolvemos cinco questões de diferentes níveis de dificuldade, todas envolvendo essa estrutura de dados. Utilizamos problemas de três juízes online: LeetCode, Beecrowd e Codeforces. 
 
 ## Screenshots
 <center><img src="https://github.com/user-attachments/assets/8786a84c-a4fa-407e-b6e5-dc24d65f3c8a" alt="submissao_ExisteCaminho" width="800"/></center><br>
