@@ -31,7 +31,7 @@ Para executar os programas do projeto, são necessários apenas compiladores par
 Ao executar os códigos disponíveis, é possível checar seu funcionamento por meio dos casos de teste disponíveis nos prints de cada questão resolvida.
 
 ## Vídeo da apresentação 
-[![Grafos1](https://img.youtube.com/vi/iv5ExE-srn4/0.jpg)](https://www.youtube.com/watch?v=iv5ExE-srn4)
+[![Grafos2](https://img.youtube.com/vi/wjJHFJNGH7k/0.jpg)](https://www.youtube.com/watch?v=wjJHFJNGH7k)
 
 
 
